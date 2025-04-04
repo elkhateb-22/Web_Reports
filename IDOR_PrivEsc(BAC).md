@@ -122,7 +122,16 @@ https://ysamm.com/?p=314
 https://ysamm.com/?p=60
 ```
 
-
+<https://medium.com/@FuzzyyDuck2fa-bypass-by-response-manipulation-f599c2e3341f> => 2fa bypass response manipulation
+<https://larebsec.medium.com/verification-bypass-via-mass-assignment-25707e210a42> => mass assign bypasses verification
+<https://medium.com/@sharp488/critical-account-takeover-mfa-auth-bypass-due-to-cookie-misconfiguration-3ca7d1672f9d> => wtf?
+<https://medium.com/h7w/full-account-takeover-via-password-reset-link-manipulation-840fb9402967> => ATO in reset password
+<https://medium.com/@tusharaj98355/1-4m-pii-data-leakage-idor-aee596aef4d9> => IDOR in upload function
+<https://medium.com/@a13h1/bypassing-business-logic-via-race-condition-a-500-bounty-bug-273396b17ec4> => race condition
+<https://imwaiting18.medium.com/i-sent-1-000-000-requests-to-a-server-dcb6b41d5d7f> => 2fa bypass + rate limit bypass
+<https://infosecwriteups.com/bac-idor-how-my-father-credit-card-help-me-to-find-this-access-control-issue-7ff7c1ae463e> => IDOR swapping payment method
+<https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741> => IDOR saved payments
+<https://medium.com/@pranshux0x/account-takeover-on-8-years-old-public-program-c0c0a30cfdd2> => verification bypass + ATO
 
 
 -----
